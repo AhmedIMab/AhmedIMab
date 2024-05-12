@@ -1,6 +1,6 @@
 ### Hey there 👋
 Welcome to my repo! <br/>
-I am a Second Year student studying Computer Science at university. 
+I am a Second Year student studying Computer Science at Queen Mary University of London. 
 I love working on projects, and although debugging can take a while, I've found coding a project from scratch will teach you a lot of different things.
 
 <!--
