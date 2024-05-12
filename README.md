@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome my repo!
+Welcome to my repo!
 I am a Second Year student studying Computer Science at university. 
 I love working on projects, and although debugging can take a while, I've found coding a project from scratch will teach you a lot of different things.
 
