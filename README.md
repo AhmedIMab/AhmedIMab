@@ -1,7 +1,7 @@
 ### Hey there 👋
 Welcome to my repo! <br/>
 I am a second year student studying Computer Science at Queen Mary University of London. <br/>
-I love working on projects, and although debugging can take a while, I've found coding a project from scratch will teach you a lot of different things.
+I'm currently doing a placement year at Nationwide as a Software Engineer.
 
 <!--
 **AhmedIMab/AhmedIMab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
