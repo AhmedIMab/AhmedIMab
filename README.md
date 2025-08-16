@@ -1,5 +1,4 @@
-### Hey there 👋
-Welcome to my repo! <br/>
+### Hey there and welcome to my repo!👋
 My name is Ahmed and I am a second year student studying Computer Science at Queen Mary University of London. <br/>
 As part of my 'sandwich' BSc degree, I applied and am currently doing a placement year at Nationwide Building Society as a Software Engineer on the mobile banking app team.
 
